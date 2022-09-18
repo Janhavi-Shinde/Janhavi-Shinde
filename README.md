@@ -5,7 +5,7 @@
 - 📫 How to reach me :
       E-mail: janashinde394@gmail.com,
       LinkedIn: https://www.linkedin.com/in/janhavi-shinde31/
-- Projects: 
+- Projects: <br />
       - Studio Ghibli Index (JavaScript) <br />
       - Harry Potter Quiz (React.js + JavaScript) <br />
       - Taylor Swift Fact Getter - CLI (Ruby) <br />
