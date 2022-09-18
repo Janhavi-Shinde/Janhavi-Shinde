@@ -2,8 +2,8 @@
 - 👀 I’m interested in Tech, History, Healthcare and Sustainable Solutions
 - 🌱 I’m currently working on a fullstack project
 - 💞️ I’m open to collaborate on projects.
-- 📫 How to reach me :
-      E-mail: janashinde394@gmail.com,
+- 📫 How to reach me : <br />
+      E-mail: janashinde394@gmail.com <br />
       LinkedIn: https://www.linkedin.com/in/janhavi-shinde31/
 - Projects: <br />
       - Studio Ghibli Index (JavaScript) <br />
