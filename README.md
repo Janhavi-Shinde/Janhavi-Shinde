@@ -8,11 +8,11 @@
 - Projects: <br />
       - Studio Ghibli Index (JavaScript): https://janhavi-shinde.github.io/Studio_Ghibli_Index/ <br />
       -  Harry Potter Quiz (React.js + JavaScript) <br />
-          &emsp; Link to Repo: https://github.com/Janhavi-Shinde/Harry_Potter_React_Project 
+          &emsp; Link to Repo: https://github.com/Janhavi-Shinde/Harry_Potter_React_Project <br />
           &emsp; Link to Demo Video: https://flip.com/s/QE-3Zf4L_HH2 
       - Taylor Swift Fact Getter - CLI (Ruby) <br />
-         - Link to Repo: https://github.com/Janhavi-Shinde/Taylor_Swift_FactGetter
-         - Link to Demo Video: https://flip.com/s/b3c6-EWtSE1a
+          &emsp; Link to Repo: https://github.com/Janhavi-Shinde/Taylor_Swift_FactGetter <br/>
+          &emsp; Link to Demo Video: https://flip.com/s/b3c6-EWtSE1a
       
      
 
