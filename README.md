@@ -6,7 +6,7 @@
       E-mail: janashinde394@gmail.com <br />
       LinkedIn: https://www.linkedin.com/in/janhavi-shinde31/
 - Projects: <br />
-      - Studio Ghibli Index (JavaScript) <br />
+      - Studio Ghibli Index (JavaScript): https://janhavi-shinde.github.io/Studio_Ghibli_Index/ <br />
       - Harry Potter Quiz (React.js + JavaScript) <br />
       - Taylor Swift Fact Getter - CLI (Ruby) <br />
       
