@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Janhavi-Shinde
 - 👀 I’m interested in Tech, History, Healthcare and Sustainable Solutions
-- 🌱 I’m currently working on a fullstack project
+- 🌱 I’m currently working on a fullstack project using Ruby on Rails to create an API/backend, and JavaScript, React.js, and Redux to create the frontend.
 - 💞️ I’m open to collaborate on projects.
 - 📫 How to reach me : <br />
+      All links: https://linktr.ee/janhavishinde <br />
       E-mail: janashinde394@gmail.com <br />
-      LinkedIn: https://www.linkedin.com/in/janhavi-shinde31/
+      
 - Projects: <br />
       - Studio Ghibli Index (JavaScript): https://janhavi-shinde.github.io/Studio_Ghibli_Index/ <br />
       -  Harry Potter Quiz (React.js + JavaScript) <br />
