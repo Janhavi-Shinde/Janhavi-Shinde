@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Janhavi-Shinde
 - 👀 I’m interested in Tech, History, Healthcare and Sustainable Solutions
 - 🌱 I’m currently working on a fullstack project using Ruby on Rails to create an API/backend, and JavaScript, React.js, and Redux to create the frontend.
+- Interning at @cisco systems
 - 💞️ I’m open to collaborate on projects.
 - 📫 How to reach me : <br />
       All links: https://linktr.ee/janhavishinde <br />
