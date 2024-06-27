@@ -15,7 +15,7 @@ name and director, read descriptions and like films from the Studio Ghibli API. 
 Developed quiz application, using Harry Potter API and json-server (dependency) as the backend. Created using JavaScript and React.js 
 (Project Video provided in Readme file of the linked GitHub repository)
 
-  ⚕️ Currently working on buidling GPTs for Medicine Education programs/workshops
+  ⚕️ Currently working on building GPTs for Medicine Education programs/workshops
 
 
 
